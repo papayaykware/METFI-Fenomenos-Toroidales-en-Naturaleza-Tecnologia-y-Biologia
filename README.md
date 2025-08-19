@@ -1,4 +1,4 @@
-# METFI-Fenoenos-Toroidales-en-Naturaleza-Tecnologia-y-Biologia
+# METFI-Fenomenos-Toroidales-en-Naturaleza-Tecnologia-y-Biologia
 Repositorio que compila y analiza fenómenos naturales, tecnológicos y biológicos desde la perspectiva del paradigma METFI, destacando la presencia de configuraciones toroidales y resonancias electromagnéticas.
 
 # Atlas METFI: Fenómenos Toroidales en Naturaleza, Tecnología y Biología
